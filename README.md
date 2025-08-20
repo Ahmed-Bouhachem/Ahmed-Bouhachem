@@ -1,7 +1,7 @@
 <!-- Banner (replace with your own image in this repo) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmed-Bouhachem/Ahmed-Bouhachem/main/assets/banner.png" width="100%" alt="Ahmed Bouhachem — Robotics & AI">
-</p>
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 <h1 align="center">hey there 👋</h1>
 <p align="center">
